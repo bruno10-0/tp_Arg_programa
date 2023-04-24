@@ -1,0 +1,12 @@
+Ejemplo guia
+
+1.intruducir el nombre de usuario.
+2.intruducir el numero de partido, ejemplo: 1.
+3.intruduci un numero entre -1 y 3. Cada uno tiene un significado para el algoritmo:
+	a. 0=votar por un empate
+	b. 1=votar por el equipo 1
+	c. 2=votar por el equipo 2
+
+Sintaxis 
+
+Bruno;2;1
